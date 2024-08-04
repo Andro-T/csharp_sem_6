@@ -1,0 +1,15 @@
+C:\Ucheba\Sem_6\tusks\tusk_2\bin\Debug\net8.0\tusk_2.exe
+C:\Ucheba\Sem_6\tusks\tusk_2\bin\Debug\net8.0\tusk_2.deps.json
+C:\Ucheba\Sem_6\tusks\tusk_2\bin\Debug\net8.0\tusk_2.runtimeconfig.json
+C:\Ucheba\Sem_6\tusks\tusk_2\bin\Debug\net8.0\tusk_2.dll
+C:\Ucheba\Sem_6\tusks\tusk_2\bin\Debug\net8.0\tusk_2.pdb
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.AssemblyInfoInputs.cache
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.AssemblyInfo.cs
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.csproj.CoreCompileInputs.cache
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.sourcelink.json
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.dll
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\refint\tusk_2.dll
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.pdb
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\tusk_2.genruntimeconfig.cache
+C:\Ucheba\Sem_6\tusks\tusk_2\obj\Debug\net8.0\ref\tusk_2.dll
